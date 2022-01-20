@@ -1,4 +1,5 @@
-*TODO*: Please edit the following information in your final project
+## Particle Simulation
+
 ## https://youtu.be/3hmPZRBcUfQ
 <img src="./part1/media/Integration.JPG">
 
